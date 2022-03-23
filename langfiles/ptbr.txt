@@ -1,0 +1,3 @@
+Exit|Sair
+Languages|Linguagens
+Portuguese|Português
